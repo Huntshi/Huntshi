@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi 👋
+I'm a french student in development. I like learning and practice sport.
 
-<!--
 [![@huntshi's Holopin board](https://holopin.me/huntshi)](https://holopin.io/@huntshi)
+<!--
+
 **Huntshi/Huntshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
